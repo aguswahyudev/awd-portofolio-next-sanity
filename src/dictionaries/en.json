@@ -1,0 +1,75 @@
+{
+  "lang": "en",
+  "dateLocale": "en-US",
+  "hero": {
+    "title": "Hello Everyone👋, Let me introduce my name",
+    "subtitle": "Welcome to the portfolio web page of agus wahyu",
+    "button": "Contact Me"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "I am a student at an Indonesian university. My study program is Statistical Computing with a specialization in Information Systems."
+  },
+  "project": {
+    "title": "Project",
+    "subtitle": "Recent Project",
+    "description": "The following are website projects that I have made with various programming languages such as R, Java and PHP. Then with the framework CodeIgniter, Laravel, Springboot, R Shiny and others",
+    "button": "Project Details",
+    "bannerTitle": "View More Projects",
+    "bannerButton": "More"
+  },
+  "skill": {
+    "title": "Skill",
+    "subtitle": "Mastered programming language",
+    "description": "Markup language, the programming that I have learned and have mastered is Python which I usually use for data processing. Then HTML and CSS to build the basic framework of the website. Furthermore, Javascript which can be used as a frontend or full stack with Node.JS. Apart from that, Java is used to create desktop applications, websites and android applications. Apart from Python, I also use R for data processing."
+  },
+  "certificate": {
+    "title": "Certificate",
+    "subtitle": "Certificates I have received",
+    "description": "The following are the certificates I have received from various online learning platforms such as Dicoding, Progate, and others. The certificates I have received are certificates issued by these companies or online learning platforms."
+  },
+  "contact": {
+    "title": "Send Message",
+    "name": "Full Name",
+    "email": "Email Address",
+    "subject": "Subject",
+    "phoneNumber": "Phone Number",
+    "message": "Message",
+    "checklist": "By clicking the Check Box, you agree to use our Forms terms and consent to the use of cookies in browsers.",
+    "button": "Submit",
+    "findMe": "Find Me on",
+    "address": "Address"
+  },
+  "allProject": {
+    "title": "Project",
+    "subtitle": "All Projects",
+    "description": "The following are website projects that I have made with various programming languages such as R, Java and PHP. Then with the framework CodeIgniter, Laravel, Springboot, R Shiny and others",
+    "button": "Project Details",
+    "noShow": "No project"
+  },
+  "oneProject": {
+    "buttonPreview": "Preview",
+    "buttonCode": "Repository",
+    "share": "Share To",
+    "relatedProject": "Similar Projects",
+    "technology": "Technology",
+    "type": "Type",
+    "contributor": "Contributor",
+    "updatedAt": "Updated "
+  },
+  "allTechnology": {
+    "title": "Technology",
+    "subtitle": "All Technology",
+    "description": "All technology the project"
+  },
+  "filterProject": {
+    "title": "Project",
+    "subtitle": "Project Filter",
+    "description": "Technology"
+  },
+  "aboutMe": {
+    "title": "About",
+    "subtitle": "About Me",
+    "description": "A brief description of me"
+  }
+}
